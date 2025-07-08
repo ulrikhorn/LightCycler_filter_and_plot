@@ -4,8 +4,8 @@ Simple Shiny web app that takes a .txt file from the Lightcycler480 and allows y
 Can work as standalone app if R is installed into a app directory
 
 e.g.
-Myapp/
-  R-Portable/<R installation>
+Myapp/ \n
+  R-Portable/<R installation> \n
   app/app.R
   run_app.bat
 
