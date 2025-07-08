@@ -5,7 +5,7 @@ Can work as standalone app if R is installed into a app directory
 
 e.g. \
 Myapp/ \
-  R-Portable/<R installation> \
+  R-Portable/[R installation] \
   app/app.R \
   run_app.bat \
 
